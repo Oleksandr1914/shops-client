@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Oleksandr1914/shops-client/static/css/main.968827a0.css",
+    "main.js": "/Oleksandr1914/shops-client/static/js/main.bf719e1a.js",
+    "index.html": "/Oleksandr1914/shops-client/index.html",
+    "main.968827a0.css.map": "/Oleksandr1914/shops-client/static/css/main.968827a0.css.map",
+    "main.bf719e1a.js.map": "/Oleksandr1914/shops-client/static/js/main.bf719e1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.968827a0.css",
+    "static/js/main.bf719e1a.js"
+  ]
+}
